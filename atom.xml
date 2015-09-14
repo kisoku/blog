@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Learning to Breathe]]></title>
-  <link href="http://kisoku.github.io/atom.xml" rel="self"/>
-  <link href="http://kisoku.github.io/"/>
-  <updated>2015-09-14T05:16:07-04:00</updated>
-  <id>http://kisoku.github.io/</id>
+  <link href="http://kisoku.github.io/blog/atom.xml" rel="self"/>
+  <link href="http://kisoku.github.io/blog/"/>
+  <updated>2015-09-14T05:26:24-04:00</updated>
+  <id>http://kisoku.github.io/blog/</id>
   <author>
     <name><![CDATA[Mathieu Sauve-Frankel]]></name>
     

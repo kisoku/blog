@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://kisoku.github.io/sitemap.xml 
+Sitemap: http://kisoku.github.io/blog/sitemap.xml 
